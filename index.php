@@ -19,16 +19,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item dropdown">
-          <a class="nav-link active text-white" aria-current="page" href="home.php">INICIO</a>
+          <a class="nav-link active text-white" aria-current="page" href="/home">INICIO</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link text-white" href="CrearUsuario.php">REGISTRO</a>
+          <a class="nav-link text-white" href="/CrearUsuario">REGISTRO</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link text-white" href="LoginUsuario.php">INICIAR SESION</a>
+          <a class="nav-link text-white" href="/LoginUsuario">INICIAR SESION</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link text-white" href="Catalogo.php">CATALOGO</a>
+          <a class="nav-link text-white" href="/Catalogo">CATALOGO</a>
         </li>
       </ul>
       
